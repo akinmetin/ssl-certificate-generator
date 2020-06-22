@@ -1,6 +1,6 @@
 # Self-Signed SSL Certificate Generator
 
-Python self-signed SSL certificate generator script that creates 10 years valid wildcard certificate for your domain name.
+Python self-signed SSL certificate generator script that creates wildcard certificate for your domain name with default 10 years of validity.
 
 
 ## Installation
